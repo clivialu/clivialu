@@ -80,6 +80,6 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 ## SJR Q3 Level
 - **Hayes, L., Lu, J., & Rezania, D. (2022). An empirical examination of the relationship between capability maturity and firm performance across manufacturing and IT industries**  
   _Management and Production Engineering Review, 13_  
-  _(Unranked)_  
+  _(SJR Q3)_  
   This paper empirically examines how capability maturity—reflecting the sophistication of an organization’s management processes—relates to firm performance in manufacturing and IT sectors. The results suggest that higher capability maturity is associated with stronger operational efficiency and financial outcomes, though the relationship varies by industry context.  
   👉 [Project repo](https://github.com/clivialu/capability-maturity-firm-performance) · [Paper](https://doi.org/10.24425/mper.2022.142055)
