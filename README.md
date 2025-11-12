@@ -10,6 +10,7 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   _Business Strategy and the Environment, 33(5)_  
   _(ABDC A; Impact factor 13.30)_  
   One- or two-sentence plain-language summary of what you studied and why it matters.
+
   👉 [Project repo](https://github.com/clivialu/your-project-2) · [Paper](https://doi.org/10.1002/bse.3678)
   
 - **Lu, J., & Herremans, I. M. (2019).Board Gender Diversity and Environmental Performance:An Industries Perspective**  
