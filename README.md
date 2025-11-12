@@ -77,4 +77,9 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   This study applies sentiment analysis to sustainability reports to explore whether the tone of firms’ sustainability disclosures predicts their future environmental performance. The results indicate that a more positive and confident tone in sustainability reporting is linked to better subsequent environmental outcomes, suggesting that linguistic cues in corporate reports can reveal meaningful signals about a firm’s future sustainability behavior.  
   👉 [Project repo](https://github.com/clivialu/sentiment-analysis-sustainability-reporting) · [Paper](https://doi.org/10.1504/IJAF.2023.134518)
 
-
+## SJR Q3 Level
+- **Hayes, L., Lu, J., & Rezania, D. (2022). An empirical examination of the relationship between capability maturity and firm performance across manufacturing and IT industries**  
+  _Management and Production Engineering Review, 13_  
+  _(Unranked)_  
+  This paper empirically examines how capability maturity—reflecting the sophistication of an organization’s management processes—relates to firm performance in manufacturing and IT sectors. The results suggest that higher capability maturity is associated with stronger operational efficiency and financial outcomes, though the relationship varies by industry context.  
+  👉 [Project repo](https://github.com/clivialu/capability-maturity-firm-performance) · [Paper](https://doi.org/10.24425/mper.2022.142055)
