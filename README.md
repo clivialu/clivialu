@@ -6,8 +6,7 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 
 ### Selected projects
 
-- **Lu, J., & Herremans, I. M. (2019).<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/9d9eb721-bfca-47af-af61-73d78bd5b76b" />
-Board Gender Diversity and Environmental Performance:An Industries Perspective**  
+- **Lu, J., & Herremans, I. M. (2019).Board Gender Diversity and Environmental Performance:An Industries Perspective**  
   _Business Strategy and the Environment_ (2019)  
   Explores whether companies with more women on their boards also have better environmental performance, using matched firms across U.S. industries.  
   👉 [Project repo](https://github.com/clivialu/board-gender-diversity) · [Paper](https://doi.org/10.1002/bse.2326)
