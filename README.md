@@ -10,8 +10,8 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   _The British Accounting Review_  
   _(ABDC A*; Impact factor 5.577)_  
   This paper investigates how relationships among stakeholders — both within firms and across organizational boundaries — influence carbon management accounting practices. Drawing on stakeholder theory and empirical data, the study shows that effective collaboration and information sharing between internal and external stakeholders improve the integration of carbon management into accounting systems, supporting more strategic and transparent climate-related decision-making.
-  
-  👉 [Project repo](https://github.com/clivialu/carbon-management-accounting) · [Paper](https://doi.org/10.1016/j.bar.2020.100933)
+
+  👉[Project repo](https://github.com/clivialu/carbon-management-accounting) · [Paper](https://doi.org/10.1016/j.bar.2020.100933)
 
 ## ABDC A Level
 - **Lu, J., Yu, D., Mahmoudian, F., Nazari, J. A., & Herremans, I. M. (2024). The influence of board interlocks and sustainability experience on transparent sustainability disclosure**  
@@ -26,6 +26,14 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   _(ABDC A; Impact factor 13.3)_  
   This paper investigates whether firms with stronger sustainability performance are more resilient when facing crises. Using data on sustainability indicators and firm performance during turbulent periods, we find that companies with higher sustainability scores tend to recover faster and perform more steadily under crisis conditions. These results suggest that sustainability can act as a strategic capability that enhances organizational resilience.  
 👉 [Project repo](https://github.com/clivialu/sustainability-performance-resilience) · [Paper](https://doi.org/10.1002/bse.3088)
+
+- **Lu, J., & Wang, J. (2021). Corporate governance, law, culture, environmental performance and CSR disclosure: A global perspective**  
+  _Journal of International Financial Markets, Institutions & Money, 70_  
+  _(ABDC A; Impact factor 4.211)_  
+  This paper examines how national governance systems, legal frameworks, and cultural values shape firms’ environmental performance and corporate social responsibility (CSR) disclosure practices across countries. Using global panel data, the study finds that stronger governance quality and rule of law are associated with higher CSR transparency, while cultural factors moderate how corporate governance translates into sustainability outcomes.  
+  👉 [Project repo](https://github.com/clivialu/global-csr-governance) · [Paper](https://doi.org/10.1016/j.intfin.2020.101264)
+
+
 
 - **Lu, J., Mahmoudian, F., Yu, D., Nazari, J. A., & Herremans, I. M. (2021). Board interlocks, absorptive capacity and environmental performance**  
   _Business Strategy and the Environment, 30(8)_  
