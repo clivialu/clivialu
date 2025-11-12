@@ -68,7 +68,13 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   _Journal of International Accounting, Auditing and Taxation, 52, 100563_  
   _(ABDC B)_  
   This paper investigates whether firms’ efforts to reduce and disclose greenhouse gas (GHG) emissions influence how creditors assess their risk and lending terms. Using international data, the study finds that transparent emissions disclosure and actual reductions in GHG intensity are associated with more favorable credit conditions, suggesting that environmental accountability can lower perceived financial risk.  
-  👉 [Paper](https://doi.org/10.1016/j.intaccaudtax.2023.100563)
-
+  👉 [Project repo](https://github.com/clivialu/creditors-ghg-emissions-disclosure) · [Paper](https://doi.org/10.1016/j.intaccaudtax.2023.100563)
 
 ## ABDC C Level
+- **Lu, J., & Jagoda, K. (2023). Sentiment analysis in sustainability accounting reporting: Does the tone reveal future environmental performance?**  
+  _International Journal of Accounting and Finance, 11(3), 202–219_  
+  _(ABDC C)_  
+  This study applies sentiment analysis to sustainability reports to explore whether the tone of firms’ sustainability disclosures predicts their future environmental performance. The results indicate that a more positive and confident tone in sustainability reporting is linked to better subsequent environmental outcomes, suggesting that linguistic cues in corporate reports can reveal meaningful signals about a firm’s future sustainability behavior.  
+  👉 [Project repo](https://github.com/clivialu/sentiment-analysis-sustainability-reporting) · [Paper](https://doi.org/10.1504/IJAF.2023.134518)
+
+
