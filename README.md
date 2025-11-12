@@ -2,7 +2,6 @@
 
 I maintain a separate GitHub repository for most of my research projects. Each repo usually includes:
 - A short, plain-language summary of the paper
-- Code used for the analysis (where possible)
 - Links to the published article or preprint
 
 ### Selected projects
