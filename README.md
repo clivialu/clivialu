@@ -5,6 +5,14 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 - Links to the published article or preprint
 
 ### Selected Projects
+## ABDC A* Level
+- **Mahmoudian, F., Lu, J., Yu, D., Nazari, J. A., & Herremans, I. M. (2021). Inter- and intra-organizational stakeholder arrangements in carbon management accounting**  
+  _The British Accounting Review_  
+  _(ABDC A*; Impact factor 5.577)_  
+  This paper investigates how relationships among stakeholders — both within firms and across organizational boundaries — influence carbon management accounting practices. Drawing on stakeholder theory and empirical data, the study shows that effective collaboration and information sharing between internal and external stakeholders improve the integration of carbon management into accounting systems, supporting more strategic and transparent climate-related decision-making.
+  
+  👉 [Project repo](https://github.com/clivialu/carbon-management-accounting) · [Paper](https://doi.org/10.1016/j.bar.2020.100933)
+
 ## ABDC A Level
 - **Lu, J., Yu, D., Mahmoudian, F., Nazari, J. A., & Herremans, I. M. (2024). The influence of board interlocks and sustainability experience on transparent sustainability disclosure**  
   _Business Strategy and the Environment, 33(5)_  
