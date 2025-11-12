@@ -4,10 +4,11 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 - A short, plain-language summary of the paper
 - Links to the published article or preprint
 
-### Selected projects
-ABDC A Level
+### Selected Projects
+## ABDC A Level
 - **Lu, J., Yu, D., Mahmoudian, F., Nazari, J. A., & Herremans, I. M. (2024). The influence of board interlocks and sustainability experience on transparent sustainability disclosure**  
-  _Business Strategy and the Environment, 33(5)_  
+  _Business Strategy and the Environment, 33(5)_
+  (ABDC A, Impact factor 13.30)
   One- or two-sentence plain-language summary of what you studied and why it matters.  
   👉 [Project repo](https://github.com/clivialu/your-project-2) · [Paper](https://doi.org/10.1002/bse.3678)
   
@@ -22,3 +23,7 @@ ABDC A Level
   (ABDC A, Impact Score 3.03)
   One- or two-sentence plain-language summary of what you studied and why it matters.  
   👉 [Project repo](https://github.com/clivialu/your-project-2) · [Paper](https://doi.org/10.1080/02508281.2011.11081670)
+
+## ABDC B Level
+
+## ABDC C Level
