@@ -62,7 +62,13 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   _Asian Review of Accounting, 31(1), 57–85_  
   _(ABDC B)_  
   This paper investigates whether firms with stronger sustainability performance were more profitable during the COVID-19 pandemic. Using data from both developed and emerging economies, the study finds that sustainability-oriented firms exhibited greater financial resilience and profitability during the crisis, particularly where stakeholder protection and governance institutions were strong.  
-  👉👉 [Project repo](https://github.com/clivialu/sustainable-firms-profitability-covid19) · [Paper](https://doi.org/10.1108/ARA-04-2022-0102)
+  👉 [Project repo](https://github.com/clivialu/sustainable-firms-profitability-covid19) · [Paper](https://doi.org/10.1108/ARA-04-2022-0102)
+
+- **Mahmoudian, F., Lu, J., Yu, D., Nazari, J. A., & Herremans, I. M. (2023). Do creditors value greenhouse gas emissions reduction and disclosure**  
+  _Journal of International Accounting, Auditing and Taxation, 52, 100563_  
+  _(ABDC B)_  
+  This paper investigates whether firms’ efforts to reduce and disclose greenhouse gas (GHG) emissions influence how creditors assess their risk and lending terms. Using international data, the study finds that transparent emissions disclosure and actual reductions in GHG intensity are associated with more favorable credit conditions, suggesting that environmental accountability can lower perceived financial risk.  
+  👉 [Paper](https://doi.org/10.1016/j.intaccaudtax.2023.100563)
 
 
 ## ABDC C Level
