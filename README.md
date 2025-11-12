@@ -58,5 +58,11 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   👉 [Project repo](https://github.com/clivialu/tourism-sustainability-reporting) · [Paper](https://doi.org/10.1080/02508281.2011.11081670)
 
 ## ABDC B Level
+- **Lu, J., & Khan, S. (2023). Are sustainable firms more profitable during COVID-19? Recent global evidence of firms in developed and emerging economies**  
+  _Asian Review of Accounting, 31(1), 57–85_  
+  _(ABDC B)_  
+  This paper investigates whether firms with stronger sustainability performance were more profitable during the COVID-19 pandemic. Using data from both developed and emerging economies, the study finds that sustainability-oriented firms exhibited greater financial resilience and profitability during the crisis, particularly where stakeholder protection and governance institutions were strong.  
+  👉👉 [Project repo](https://github.com/clivialu/sustainable-firms-profitability-covid19) · [Paper](https://doi.org/10.1108/ARA-04-2022-0102)
+
 
 ## ABDC C Level
