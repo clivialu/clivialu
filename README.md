@@ -8,7 +8,6 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 
 - **Lu, J., & Herremans, I. M. (2019).Board Gender Diversity and Environmental Performance:An Industries Perspective**  
   Business Strategy and the Environment, 28(7), 1449-1464.
-
   Explores whether companies with more women on their boards also have better environmental performance, using matched firms across U.S. industries.  
   👉 [Project repo](https://github.com/clivialu/board-gender-diversity) · [Paper](https://doi.org/10.1002/bse.2326)
 
