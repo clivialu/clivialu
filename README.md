@@ -27,19 +27,24 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   This paper investigates whether firms with stronger sustainability performance are more resilient when facing crises. Using data on sustainability indicators and firm performance during turbulent periods, we find that companies with higher sustainability scores tend to recover faster and perform more steadily under crisis conditions. These results suggest that sustainability can act as a strategic capability that enhances organizational resilience.  
 👉 [Project repo](https://github.com/clivialu/sustainability-performance-resilience) · [Paper](https://doi.org/10.1002/bse.3088)
 
+- **Lu, J., Mahmoudian, F., Yu, D., Nazari, J. A., & Herremans, I. M. (2021). Board interlocks, absorptive capacity and environmental performance**  
+  _Business Strategy and the Environment, 30(8)_  
+  _(ABDC A; Impact factor 13.4)_  
+  This study explores how companies’ connections through shared board members (board interlocks) influence their ability to learn from others — their *absorptive capacity* — and how this, in turn, affects their environmental performance. We find that firms connected to others with strong environmental practices tend to improve their own environmental performance when they have the internal capacity to absorb and apply that knowledge.  
+  👉[Project repo](https://github.com/clivialu/board-interlocks-environmental-performance) · [Paper](https://doi.org/10.1002/bse.2811)
+
 - **Lu, J., & Wang, J. (2021). Corporate governance, law, culture, environmental performance and CSR disclosure: A global perspective**  
   _Journal of International Financial Markets, Institutions & Money, 70_  
   _(ABDC A; Impact factor 4.211)_  
   This paper examines how national governance systems, legal frameworks, and cultural values shape firms’ environmental performance and corporate social responsibility (CSR) disclosure practices across countries. Using global panel data, the study finds that stronger governance quality and rule of law are associated with higher CSR transparency, while cultural factors moderate how corporate governance translates into sustainability outcomes.  
   👉 [Project repo](https://github.com/clivialu/global-csr-governance) · [Paper](https://doi.org/10.1016/j.intfin.2020.101264)
 
+- **Lu, J., Yu, D., Mahmoudian, F., Nazari, J. A., & Herremans, I. M. (2021). Board interlocks and greenhouse gas emissions**  
+  _Business Strategy and the Environment, 30(1)_  
+  _(ABDC A; Impact factor 13.3)_  
+  This study examines how board interlocks — the connections created when directors sit on multiple company boards — influence firms’ greenhouse gas (GHG) emissions. The results show that interlocked boards can serve as channels for spreading environmental awareness and best practices, leading to lower corporate emissions, especially when linked to firms with strong sustainability performance.  
+  👉 [Paper](https://doi.org/10.1002/bse.2611)
 
-
-- **Lu, J., Mahmoudian, F., Yu, D., Nazari, J. A., & Herremans, I. M. (2021). Board interlocks, absorptive capacity and environmental performance**  
-  _Business Strategy and the Environment, 30(8)_  
-  _(ABDC A; Impact factor 13.4)_  
-  This study explores how companies’ connections through shared board members (board interlocks) influence their ability to learn from others — their *absorptive capacity* — and how this, in turn, affects their environmental performance. We find that firms connected to others with strong environmental practices tend to improve their own environmental performance when they have the internal capacity to absorb and apply that knowledge.  
-  👉[Project repo](https://github.com/clivialu/board-interlocks-environmental-performance) · [Paper](https://doi.org/10.1002/bse.2811)
 
 - **Lu, J., & Herremans, I. M. (2019).Board Gender Diversity and Environmental Performance:An Industries Perspective**  
   _Business Strategy and the Environment, 28(7), 1449-1464._
