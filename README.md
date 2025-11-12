@@ -11,15 +11,20 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   _(ABDC A; Impact factor 13.3)_  
   This paper examines how board interlocks—links among directors across different companies—and directors’ sustainability experience shape the level of transparency in firms’ sustainability reporting. 
   We find that firms with directors who are connected to other sustainability-focused boards and who have prior sustainability experience tend to disclose sustainability information more openly and consistently.  
-  👉 [Project repo](https://github.com/clivialu/your-project-2) · [Paper](https://doi.org/10.1002/bse.3678)
+  👉 [Project repo](https://github.com/clivialu/board-interlocks-sustainability-disclosure) · [Paper](https://doi.org/10.1002/bse.3678)
 
- - **Lu, J., Rodenburg, K., Foti, L., & Pegoraro, A. (2022). Are firms with better sustainability performance more resilient during crises**  
+- **Lu, J., Rodenburg, K., Foti, L., & Pegoraro, A. (2022). Are firms with better sustainability performance more resilient during crises**  
   _Business Strategy and the Environment, 31(7)_  
-  _(ABDC A; Impact factor 13.3)_
+  _(ABDC A; Impact factor 13.3)_  
+  This paper investigates whether firms with stronger sustainability performance are more resilient when facing crises. Using data on sustainability indicators and firm performance during turbulent periods, we find that companies with higher sustainability scores tend to recover faster and perform more steadily under crisis conditions. These results suggest that sustainability can act as a strategic capability that enhances organizational resilience.  
+👉 [Project repo](https://github.com/clivialu/sustainability-performance-resilience) · [Paper](https://doi.org/10.1002/bse.3088)
 
-  In this study, we examine whether companies with stronger sustainability performance are better able to withstand periods of crisis. We compare firms’ sustainability performance and their financial                      resilience during disruptive events, showing that firms with stronger sustainability profiles tend to be more resilient when conditions become unstable.
-  👉 [Project repo](https://github.com/clivialu/sustainability-resilience-crises) · [Paper](https://doi.org/10.1002/bse.3088)
-  
+  - **Lu, J., Mahmoudian, F., Yu, D., Nazari, J. A., & Herremans, I. M. (2021). Board interlocks, absorptive capacity and environmental performance**  
+  _Business Strategy and the Environment, 30(8)_  
+  _(ABDC A; Impact factor 13.4)_  
+  This study explores how companies’ connections through shared board members (board interlocks) influence their ability to learn from others — their *absorptive capacity* — and how this, in turn, affects their environmental performance. We find that firms connected to others with strong environmental practices tend to improve their own environmental performance when they have the internal capacity to absorb and apply that knowledge.  
+  👉[Project repo](https://github.com/clivialu/board-interlocks-environmental-performance) · [Paper](https://doi.org/10.1002/bse.2811)
+
 - **Lu, J., & Herremans, I. M. (2019).Board Gender Diversity and Environmental Performance:An Industries Perspective**  
   _Business Strategy and the Environment, 28(7), 1449-1464._
   _(ABDC A, Impact factor 13.30)_
