@@ -25,7 +25,7 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   _Business Strategy and the Environment, 31(7)_  
   _(ABDC A; Impact factor 13.3)_  
   This paper investigates whether firms with stronger sustainability performance are more resilient when facing crises. Using data on sustainability indicators and firm performance during turbulent periods, we find that companies with higher sustainability scores tend to recover faster and perform more steadily under crisis conditions. These results suggest that sustainability can act as a strategic capability that enhances organizational resilience.  
-👉 [Project repo](https://github.com/clivialu/sustainability-performance-resilience) · [Paper](https://doi.org/10.1002/bse.3088)
+👉 [Project repo](https://github.com/clivialu/sustainability-resilience-crises) · [Paper](https://doi.org/10.1002/bse.3088)
 
 - **Lu, J., Mahmoudian, F., Yu, D., Nazari, J. A., & Herremans, I. M. (2021). Board interlocks, absorptive capacity and environmental performance**  
   _Business Strategy and the Environment, 30(8)_  
