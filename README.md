@@ -45,12 +45,11 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   This study examines how board interlocks — the connections created when directors sit on multiple company boards — influence firms’ greenhouse gas (GHG) emissions. The results show that interlocked boards can serve as channels for spreading environmental awareness and best practices, leading to lower corporate emissions, especially when linked to firms with strong sustainability performance.  
   👉  [Project repo](https://github.com/clivialu/board-interlocks-ghg-emissions) · [Paper](https://doi.org/10.1002/bse.2611)
 
-- **Lu, J., & Herremans, I. M. (2019).Board Gender Diversity and Environmental Performance:An Industries Perspective**  
-  _Business Strategy and the Environment, 28(7), 1449-1464._
-  _(ABDC A, Impact factor 13.30)_
-
-  Explores whether companies with more women on their boards also have better environmental performance, using matched firms across U.S. industries.  
-  👉 [Project repo](https://github.com/clivialu/board-gender-diversity) · [Paper](https://doi.org/10.1002/bse.2326)
+- **Lu, J., & Herremans, I. M. (2019). Board gender diversity and environmental performance: An industries perspective**  
+  _Business Strategy and the Environment, 28(7), 1449–1464_  
+  _(ABDC A; Impact factor 13.3)_  
+  This paper examines how gender diversity on corporate boards influences firms’ environmental performance across different industries. Using data from U.S. firms and propensity score matching, the study finds that companies with more gender-diverse boards tend to achieve higher environmental performance, though the strength of this relationship varies by industry context.  
+  👉[Project repo](https://github.com/clivialu/board-gender-diversity-environment) · [Paper](https://doi.org/10.1002/bse.2326)
 
 - **Herremans, I., Pyasi, N., & Lu, J. (2011). The journey toward sustainability reporting: How accountable are the tourism industries?**  
   _Tourism Recreation Research, 36(3), 247–257_  
