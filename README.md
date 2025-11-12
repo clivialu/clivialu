@@ -2,7 +2,7 @@
 
 I maintain a separate GitHub repository for most of my research projects. Each repo usually includes:
 - A short, plain-language summary of the paper
-- Links to the published article or preprint
+- Links to the published article
 
 ### Selected Projects
 ## ABDC A* Level
@@ -43,8 +43,7 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   _Business Strategy and the Environment, 30(1)_  
   _(ABDC A; Impact factor 13.3)_  
   This study examines how board interlocks — the connections created when directors sit on multiple company boards — influence firms’ greenhouse gas (GHG) emissions. The results show that interlocked boards can serve as channels for spreading environmental awareness and best practices, leading to lower corporate emissions, especially when linked to firms with strong sustainability performance.  
-  👉 [Paper](https://doi.org/10.1002/bse.2611)
-
+  👉  [Project repo](https://github.com/clivialu/board-interlocks-ghg-emissions) · [Paper](https://doi.org/10.1002/bse.2611)
 
 - **Lu, J., & Herremans, I. M. (2019).Board Gender Diversity and Environmental Performance:An Industries Perspective**  
   _Business Strategy and the Environment, 28(7), 1449-1464._
