@@ -52,12 +52,11 @@ I maintain a separate GitHub repository for most of my research projects. Each r
   Explores whether companies with more women on their boards also have better environmental performance, using matched firms across U.S. industries.  
   👉 [Project repo](https://github.com/clivialu/board-gender-diversity) · [Paper](https://doi.org/10.1002/bse.2326)
 
-- **Herremans, I., Pyasi, N., & Lu, J. (2011). The Journey Toward Sustainability Reporting: How Accountable are the Tourism Industries?**  
-  _Tourism Recreation Research, 36(3), 247-257._
-  _(ABDC A, Impact Score 3.03)_
-
-  One- or two-sentence plain-language summary of what you studied and why it matters.  
-  👉 [Project repo](https://github.com/clivialu/your-project-2) · [Paper](https://doi.org/10.1080/02508281.2011.11081670)
+- **Herremans, I., Pyasi, N., & Lu, J. (2011). The journey toward sustainability reporting: How accountable are the tourism industries?**  
+  _Tourism Recreation Research, 36(3), 247–257_  
+  _(ABDC A; Impact score 3.03)_  
+  This paper explores how tourism and hospitality companies have progressed in adopting sustainability reporting practices. By analyzing industry reports and disclosure patterns, the study identifies key gaps in accountability, transparency, and stakeholder engagement. The findings reveal that while awareness of sustainability has increased, consistent and comparable reporting remains limited across the tourism sector.  
+  👉 [Project repo](https://github.com/clivialu/tourism-sustainability-reporting) · [Paper](https://doi.org/10.1080/02508281.2011.11081670)
 
 ## ABDC B Level
 
