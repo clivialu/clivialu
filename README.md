@@ -8,17 +8,17 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 ## ABDC A Level
 - **Lu, J., Yu, D., Mahmoudian, F., Nazari, J. A., & Herremans, I. M. (2024). The influence of board interlocks and sustainability experience on transparent sustainability disclosure**  
   _Business Strategy and the Environment, 33(5)_  
-  _(ABDC A; Impact factor 13.30)_  
-  One- or two-sentence plain-language summary of what you studied and why it matters.
-
+  _(ABDC A; Impact factor 13.3)_  
+  This paper examines how board interlocks—links among directors across different companies—and directors’ sustainability experience shape the level of transparency in firms’ sustainability reporting. 
+  We find that firms with directors who are connected to other sustainability-focused boards and who have prior sustainability experience tend to disclose sustainability information more openly and consistently.  
   👉 [Project repo](https://github.com/clivialu/your-project-2) · [Paper](https://doi.org/10.1002/bse.3678)
 
  - **Lu, J., Rodenburg, K., Foti, L., & Pegoraro, A. (2022). Are firms with better sustainability performance more resilient during crises**  
   _Business Strategy and the Environment, 31(7)_  
-  _(ABDC A; Impact factor 13.3)_  
+  _(ABDC A; Impact factor 13.3)_
 
-In this study, we examine whether companies with stronger sustainability performance are better able to withstand periods of crisis. We compare firms’ sustainability          performance and their financial resilience during disruptive events, showing that firms with stronger sustainability profiles tend to be more resilient when conditions        become unstable.
-  👉 [Project repo](https://github.com/clivialu/your-project-2) · [Paper](https://doi.org/10.1002/bse.3088)
+  In this study, we examine whether companies with stronger sustainability performance are better able to withstand periods of crisis. We compare firms’ sustainability performance and their financial                      resilience during disruptive events, showing that firms with stronger sustainability profiles tend to be more resilient when conditions become unstable.
+  👉 [Project repo](https://github.com/clivialu/sustainability-resilience-crises) · [Paper](https://doi.org/10.1002/bse.3088)
   
 - **Lu, J., & Herremans, I. M. (2019).Board Gender Diversity and Environmental Performance:An Industries Perspective**  
   _Business Strategy and the Environment, 28(7), 1449-1464._
