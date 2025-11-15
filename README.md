@@ -37,7 +37,7 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 
 - **Lu, J., & Wang, J. (2021). Corporate governance, law, culture, environmental performance and CSR disclosure: A global perspective**  
   _Journal of International Financial Markets, Institutions & Money, 70_  
-  _(ABDC A; Impact factor 4.211)_  
+  _(ABDC A; Impact factor 6.1)_  
   This paper examines how national governance systems, legal frameworks, and cultural values shape firms’ environmental performance and corporate social responsibility (CSR) disclosure practices across countries. Using global panel data, the study finds that stronger governance quality and rule of law are associated with higher CSR transparency, while cultural factors moderate how corporate governance translates into sustainability outcomes.  
   👉 [Project repo](https://github.com/clivialu/global-csr-governance) · [Paper](https://doi.org/10.1016/j.intfin.2020.101264)
 
