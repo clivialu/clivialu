@@ -2,14 +2,16 @@
 
 I maintain a separate GitHub repository for most of my research projects. Each repo usually includes:
 - A short, plain-language summary of the paper
+- Project highlight
+- Management takeaways
 - Links to the published article
 
 ### Selected Projects
 ## ABDC A* Level
 - **Mahmoudian, F., Lu, J., Yu, D., Nazari, J. A., & Herremans, I. M. (2021). Inter- and intra-organizational stakeholder arrangements in carbon management accounting**  
   _The British Accounting Review_  
-  _(ABDC A*; Impact factor 5.577)_  
-  This paper investigates how relationships among stakeholders — both within firms and across organizational boundaries — influence carbon management accounting practices. Drawing on stakeholder theory and empirical data, the study shows that effective collaboration and information sharing between internal and external stakeholders improve the integration of carbon management into accounting systems, supporting more strategic and transparent climate-related decision-making.
+  _(ABDC A*; Impact factor 9.4)_  
+  This paper investigates how relationships among stakeholders, both within firms and across organizational boundaries influence carbon management accounting practices. Drawing on stakeholder theory and empirical data, the study shows that effective collaboration and information sharing between internal and external stakeholders improve the integration of carbon management into accounting systems, supporting more strategic and transparent climate-related decision-making.
 
   👉[Project repo](https://github.com/clivialu/carbon-management-accounting) · [Paper](https://doi.org/10.1016/j.bar.2020.100933)
 
@@ -17,7 +19,7 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 - **Lu, J., Yu, D., Mahmoudian, F., Nazari, J. A., & Herremans, I. M. (2024). The influence of board interlocks and sustainability experience on transparent sustainability disclosure**  
   _Business Strategy and the Environment, 33(5)_  
   _(ABDC A; Impact factor 13.3)_  
-  This paper examines how board interlocks—links among directors across different companies—and directors’ sustainability experience shape the level of transparency in firms’ sustainability reporting. 
+  This paper examines how board interlocks, links among directors across different companies and directors’ sustainability experience shape the level of transparency in firms’ sustainability reporting. 
   We find that firms with directors who are connected to other sustainability-focused boards and who have prior sustainability experience tend to disclose sustainability information more openly and consistently.  
   👉 [Project repo](https://github.com/clivialu/board-interlocks-sustainability-disclosure) · [Paper](https://doi.org/10.1002/bse.3678)
 
@@ -29,8 +31,8 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 
 - **Lu, J., Mahmoudian, F., Yu, D., Nazari, J. A., & Herremans, I. M. (2021). Board interlocks, absorptive capacity and environmental performance**  
   _Business Strategy and the Environment, 30(8)_  
-  _(ABDC A; Impact factor 13.4)_  
-  This study explores how companies’ connections through shared board members (board interlocks) influence their ability to learn from others — their *absorptive capacity* — and how this, in turn, affects their environmental performance. We find that firms connected to others with strong environmental practices tend to improve their own environmental performance when they have the internal capacity to absorb and apply that knowledge.  
+  _(ABDC A; Impact factor 13.3)_  
+  This study explores how companies’ connections through shared board members (board interlocks) influence their ability to learn from others and how this, in turn, affects their environmental performance. We find that firms connected to others with strong environmental practices tend to improve their own environmental performance when they have the internal capacity to absorb and apply that knowledge.  
   👉[Project repo](https://github.com/clivialu/board-interlocks-environmental-performance) · [Paper](https://doi.org/10.1002/bse.2811)
 
 - **Lu, J., & Wang, J. (2021). Corporate governance, law, culture, environmental performance and CSR disclosure: A global perspective**  
@@ -42,7 +44,7 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 - **Lu, J., Yu, D., Mahmoudian, F., Nazari, J. A., & Herremans, I. M. (2021). Board interlocks and greenhouse gas emissions**  
   _Business Strategy and the Environment, 30(1)_  
   _(ABDC A; Impact factor 13.3)_  
-  This study examines how board interlocks — the connections created when directors sit on multiple company boards — influence firms’ greenhouse gas (GHG) emissions. The results show that interlocked boards can serve as channels for spreading environmental awareness and best practices, leading to lower corporate emissions, especially when linked to firms with strong sustainability performance.  
+  This study examines how board interlocks, the connections created when directors sit on multiple company boards influence firms’ greenhouse gas (GHG) emissions. The results show that interlocked boards can serve as channels for spreading environmental awareness and best practices, leading to lower corporate emissions, especially when linked to firms with strong sustainability performance.  
   👉  [Project repo](https://github.com/clivialu/board-interlocks-ghg-emissions) · [Paper](https://doi.org/10.1002/bse.2611)
 
 - **Lu, J., & Herremans, I. M. (2019). Board gender diversity and environmental performance: An industries perspective**  
@@ -81,5 +83,5 @@ I maintain a separate GitHub repository for most of my research projects. Each r
 - **Hayes, L., Lu, J., & Rezania, D. (2022). An empirical examination of the relationship between capability maturity and firm performance across manufacturing and IT industries**  
   _Management and Production Engineering Review, 13_  
   _(SJR Q3)_  
-  This paper empirically examines how capability maturity—reflecting the sophistication of an organization’s management processes—relates to firm performance in manufacturing and IT sectors. The results suggest that higher capability maturity is associated with stronger operational efficiency and financial outcomes, though the relationship varies by industry context.  
+  This paper empirically examines how capability maturity, reflecting the sophistication of an organization’s management processes relates to firm performance in manufacturing and IT sectors. The results suggest that higher capability maturity is associated with stronger operational efficiency and financial outcomes, though the relationship varies by industry context.  
   👉 [Project repo](https://github.com/clivialu/capability-maturity-firm-performance) · [Paper](https://doi.org/10.24425/mper.2022.142055)
